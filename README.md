@@ -10,7 +10,7 @@ Present by [Andar Pratama](https://www.instagram.com/andar.pra/).
 * Basic Layoting
 * Example and Code
 
-## Join Us
+## Join Me
 
 * [Github](https://github.com/andarpratama)
 * [Instagram](https://www.instagram.com/andar.pra/)
