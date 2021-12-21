@@ -1,0 +1,29 @@
+.logo {
+    width: 120px;
+}
+
+nav {
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 7%);
+}
+
+.nav_right {
+    justify-content: space-around;
+}
+
+@media (min-width: 576px){
+    .logo {
+        width: 140px;
+    }
+}
+
+@media (min-width: 768px){
+    .logo {
+        width: 134px;
+    }
+}
+
+@media (min-width: 1024px){
+    .logo {
+        width: 164px;
+    }
+}
