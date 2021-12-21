@@ -1,0 +1,5 @@
+ICON
+mobile-icon = <i class="fas fa-mobile-alt"></i>
+arrow = <i class="fas fa-chevron-down"></i>
+search = <i class="fas fa-search"></i>
+cart = <i class="fas fa-shopping-cart"></i>
